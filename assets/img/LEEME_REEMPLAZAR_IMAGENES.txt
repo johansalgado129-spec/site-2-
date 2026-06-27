@@ -1,0 +1,23 @@
+GUÍA RÁPIDA PARA IMÁGENES
+
+Puedes reemplazar estas imágenes por capturas reales, imágenes diseñadas en Canva o fotos propias.
+
+Mantén el mismo nombre de archivo para no tocar el HTML:
+
+hero-tablero.svg
+moodboard-narrativo.svg
+rol-aprendiz.svg
+rol-estratega.svg
+rol-maestro.svg
+rol-guia.svg
+marcadores-ra.svg
+videos-lsc.svg
+plataformas.svg
+evaluacion.svg
+kit-guardian.svg
+tablero-progreso.svg
+diploma-maestro.svg
+
+Si deseas usar JPG o PNG, cambia la ruta en el atributo src de index.html.
+Ejemplo:
+src="assets/img/hero-tablero.png"
